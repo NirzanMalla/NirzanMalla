@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 <h1 align="center">Hey People, I am Nirajan Bikram Malla</h1>
 <h3 align="center">Passionate developer on an exciting journey of mastering JavaScript</h3>
-<img align="right" alt="coding cat" width="400" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb">
+<img align="center" alt="coding cat" width="500" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirzanmalla&label=Profile%20views&color=0e75b6&style=flat" alt="nirzanmalla" /> </p>
 
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirzanmalla&show_icons=true&locale=en" alt="nirzanmalla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirzanmalla&" alt="nirzanmalla" /></p>
+
