@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
+![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
 <h1 align="center">Hey People, I am Nirajan Bikram Malla</h1>
 <h3 align="center">Passionate developer on an exciting journey of mastering JavaScript</h3>
 <img align="right" alt="coding cat" width="400" src="https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb">
